@@ -35,4 +35,5 @@
 /QmlCube/Dist/bin_d/*.exe
 /QmlCube/Dist/bin_d/*.ilk
 /QmlCube/Dist/bin_d/*.pdb
+/QmlCube/*user
 
