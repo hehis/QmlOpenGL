@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+/QmlCube/Dist/bin/*.exe
+/QmlCube/Dist/bin_d/*.exe
+/QmlCube/Dist/bin_d/*.ilk
+/QmlCube/Dist/bin_d/*.pdb
+
