@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">../3DModelLoad/main.qml</file>
+        <file alias="model.fsh">../3DModelLoad/model.fsh</file>
+        <file alias="model.vsh">../3DModelLoad/model.vsh</file>
+    </qresource>
+</RCC>

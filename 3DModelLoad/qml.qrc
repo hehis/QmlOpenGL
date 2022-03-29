@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>model.fsh</file>
+        <file>model.vsh</file>
+    </qresource>
+</RCC>
