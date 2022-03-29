@@ -36,3 +36,8 @@
 /QmlCube/Dist/bin_d/*.ilk
 /QmlCube/Dist/bin_d/*.pdb
 
+/3DModelLoad/Dist/bin/*.exe
+/3DModelLoad/Dist/bin_d/*.exe
+/3DModelLoad/Dist/bin_d/*.ilk
+/3DModelLoad/Dist/bin_d/*.pdb
+
